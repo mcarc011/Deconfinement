@@ -1,7 +1,7 @@
 # Deconfinement
 
 
-<img src="./uspex.png">
+<img src="./Uspex.png">
 <img src="./decmove1.png">
 <img src="./results.png">
 
