@@ -1,5 +1,8 @@
 # Deconfinement
 
+Okay so the theory in the Razamat paper is given by this figure:
+
+<img src="./razdual.png">
 
 <img src="./Uspex.png">
 <img src="./decmove1.png">
