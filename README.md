@@ -14,7 +14,7 @@ but then the issue is that the new Usp gauge group will be in this case rank 0. 
 
 so naively I just applied the move 4 times since we have 4 antisymmetric fields and got:
 
-
+<img src="./results.png" class="center">
 
 ----
 ## References ##
